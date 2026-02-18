@@ -1,16 +1,19 @@
-## Hi there 👋
+Hi 👋 I'm Jaikrishnan
 
-<!--
-**jai-codes-30/jai-codes-30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I am a Student
+💻 Interested in Programming and Technology
+🌱 Currently learning: C programming
 
-Here are some ideas to get you started:
+Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Basic Computer Knowledge
+- C Programming (Beginner)
+- Problem Solving
+
+Goals
+
+I want to become a Software Developer 🚀
+
+My GitHub
+
+I will upload my college programs and mini projects here.
